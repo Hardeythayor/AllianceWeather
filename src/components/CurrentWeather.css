@@ -1,0 +1,11 @@
+.current-weather {
+    border-radius: 10px;
+    background-image: linear-gradient(to top, #09203f 0%, #537895 100%);
+    height: 20vh;
+    color: #ffffff;
+    padding: 15px 30px
+}
+
+.weather-div {
+    display: flex;
+}
