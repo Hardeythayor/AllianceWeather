@@ -6,6 +6,6 @@
 
 <h5>To do:</h5>
 <ul>
-    <li>FEtch and display current weather report</li>
+    <li>Fetch and display current weather report</li>
     <li>Fetch and display 14 days weather forecast</li>
 </ul>
